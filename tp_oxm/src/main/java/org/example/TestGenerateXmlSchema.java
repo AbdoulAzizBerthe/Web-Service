@@ -17,6 +17,7 @@ public class TestGenerateXmlSchema {
             public Result createOutput(String s, String s1) throws IOException {
                 File file = new File("banque.xml");
                 StreamResult streamResult = new StreamResult(file);
+                streamResult.setSystemId(file.getName());
                 return streamResult;
             }
         });
