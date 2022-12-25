@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE releve SYSTEM "file:/C:/Users/NANOTEK/TP/Web-Service/Devoir/XML/releve.dtd">
+<releve RIB="4349376473674">
+    <dateReleve>2021-11-10</dateReleve>
+    <solde>14000</solde>
+    <operations dateDebut="2021-01-01" dateFin="2021-01-30">
+        <operation type="CREDIT" date="2021-01-01" montant="9000" description="Vers Espece"></operation>
+        
+    </operations>
+</releve>
