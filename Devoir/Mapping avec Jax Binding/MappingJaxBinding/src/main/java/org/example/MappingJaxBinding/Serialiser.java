@@ -1,4 +1,4 @@
-package org.example;
+package org.example.MappingJaxBinding;
 
 import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.Marshaller;
@@ -6,8 +6,8 @@ import jakarta.xml.bind.Marshaller;
 import java.io.File;
 import java.util.Date;
 
-import static org.example.TypeOperation.CREDIT;
-import static org.example.TypeOperation.DEBIT;
+import static org.example.MappingJaxBinding.TypeOperation.CREDIT;
+import static org.example.MappingJaxBinding.TypeOperation.DEBIT;
 
 public class Serialiser {
     public static void main(String[] args) throws Exception {

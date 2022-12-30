@@ -1,4 +1,4 @@
-package org.example;
+package org.example.MappingJaxBinding;
 
 public enum TypeOperation {
     CREDIT,DEBIT

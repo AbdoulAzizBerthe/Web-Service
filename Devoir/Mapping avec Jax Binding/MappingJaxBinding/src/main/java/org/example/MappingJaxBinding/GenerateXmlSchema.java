@@ -1,4 +1,4 @@
-package org.example;
+package org.example.MappingJaxBinding;
 
 import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.SchemaOutputResolver;

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.MappingJaxBinding;
 
 import jakarta.xml.bind.annotation.XmlAttribute;
 import jakarta.xml.bind.annotation.XmlRootElement;

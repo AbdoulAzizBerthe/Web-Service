@@ -1,13 +1,10 @@
-package org.example;
+package org.example.MappingJaxBinding;
 
-import jakarta.xml.bind.annotation.XmlAnyElement;
 import jakarta.xml.bind.annotation.XmlAttribute;
 import jakarta.xml.bind.annotation.XmlElement;
 import jakarta.xml.bind.annotation.XmlRootElement;
 
-import java.util.ArrayList;
 import java.util.Date;
-import java.util.List;
 
 @XmlRootElement
 public class Releve {
